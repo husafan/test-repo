@@ -1,0 +1,28 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[branch "master"]
+[gitflow "branch"]
+	master = master
+	develop = develop
+[gitflow "prefix"]
+	feature = feature/
+	release = release/
+	hotfix = hotfix/
+	support = support/
+	versiontag = 
+[gitcut]
+	major = 0
+	minor = 3
+	patch = 6
+	build = 0
+[remote "origin"]
+	url = https://github.com/husafan/test-repo.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "develop"]
+	remote = origin
+	merge = refs/heads/develop
