@@ -18,7 +18,7 @@
 [gitcut]
 	major = 0
 	minor = 3
-	patch = 5
+	patch = 6
 	build = 0
 [remote "origin"]
 	url = https://github.com/husafan/test-repo.git
