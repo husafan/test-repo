@@ -18,8 +18,8 @@
 [gitcut]
 	major = 0
 	minor = 3
-	patch = 1
-	build = 5
+	patch = 2
+	build = 0
 [remote "origin"]
 	url = https://github.com/husafan/test-repo.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
